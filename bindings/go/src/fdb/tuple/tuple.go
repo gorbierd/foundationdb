@@ -27,7 +27,7 @@
 // of higher-level data models.
 //
 // For general guidance on tuple usage, see the Tuple section of Data Modeling
-// (https://apple.github.io/foundationdb/data-modeling.html#tuples).
+// (https://www.foundationdb.org/documentation/data-modeling.html#data-modeling-tuples).
 //
 // FoundationDB tuples can currently encode byte and unicode strings, integers
 // and NULL values. In Go these are represented as []byte, string, int64 and

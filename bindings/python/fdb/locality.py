@@ -21,7 +21,7 @@
 # FoundationDB Python API
 
 """Documentation for this API can be found at
-https://apple.github.io/foundationdb/api-python.html"""
+https://www.foundationdb.org/documentation/api-python.html"""
 
 from fdb import impl as _impl
 
